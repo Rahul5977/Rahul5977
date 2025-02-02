@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Rahul5977
-- 👀 I’m interested in .Machine learning ..
-- 🌱 I’m currently learning .Python basics
+Hi
 
 
 <!---

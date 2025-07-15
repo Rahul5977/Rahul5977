@@ -36,7 +36,6 @@
 - 🧠 A **AI-Girlfriend** for my single friends(voice-assistant)
 - 🧠 A **GenAI-powered RAG system** (chat with PDF/URLs)
 - 🛠️ Exploring **Next.js, LangChain**, and **Docker deployments**
-- 🎹 Spending time learning the piano & balancing tech with creativity
 
 ---
 

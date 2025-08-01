@@ -1,12 +1,8 @@
-Here's your updated and polished GitHub README, with **more tech stacks** like LangChain, LangGraph, Redis, Neo4j, Docker, DevContainers, etc. integrated smoothly:
-
----
-
 # 👋 Hey there, I'm Rahul Raj!
 
 🎓 **3rd-year BTech student at [IIT Bhilai](https://www.iitbhilai.ac.in/)**
 🧠 Majoring in **Data Science & Artificial Intelligence**
-💡 Web Developer | GenAI Explorer | Mentor | AI Enthusiast
+💡 Web Developer | GenAI Explorer | AI Enthusiast
 
 🚀 Passionate about building real-world products, mentoring students, and solving problems one line of code at a time.
 
@@ -40,7 +36,6 @@ Here's your updated and polished GitHub README, with **more tech stacks** like L
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-025E8C?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 
 </div>
 
@@ -102,9 +97,3 @@ Here's your updated and polished GitHub README, with **more tech stacks** like L
 > *"Pushing hard every day. The gap between where I am and where I want to be — I’ll close it step by step, line by line, rep by rep. I’m not hoping anymore. I’m doing."*
 
 ---
-
-Thanks for stopping by! Feel free to ⭐️ any project you find interesting or reach out for a collab — let’s build something amazing! 🚀
-
----
-
-Let me know if you want badges for tools like **VS Code**, **Vercel**, or add links to your **RAG repo or deployed demos**.

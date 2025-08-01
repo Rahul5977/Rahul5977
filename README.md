@@ -1,7 +1,11 @@
+Here's your updated and polished GitHub README, with **more tech stacks** like LangChain, LangGraph, Redis, Neo4j, Docker, DevContainers, etc. integrated smoothly:
+
+---
+
 # 👋 Hey there, I'm Rahul Raj!
 
-🎓 **3rd-year BTech student at [IIT Bhilai](https://www.iitbhilai.ac.in/)**  
-🧠 Majoring in **Data Science & Artificial Intelligence**  
+🎓 **3rd-year BTech student at [IIT Bhilai](https://www.iitbhilai.ac.in/)**
+🧠 Majoring in **Data Science & Artificial Intelligence**
 💡 Web Developer | GenAI Explorer | Mentor | AI Enthusiast
 
 🚀 Passionate about building real-world products, mentoring students, and solving problems one line of code at a time.
@@ -12,19 +16,31 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=for-the-badge&logo=fastapi)
-![SQL](https://img.shields.io/badge/-SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=for-the-badge\&logo=fastapi)
+
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=for-the-badge\&logo=data\:image/svg+xml;base64,\&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-4B0082?style=for-the-badge\&logo=data\:image/svg+xml;base64,\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge\&logo=openai)
+
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=for-the-badge\&logo=neo4j\&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![DevContainers](https://img.shields.io/badge/-DevContainers-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-025E8C?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 
 </div>
 
@@ -32,20 +48,21 @@
 
 ## 🚧 What I'm Building
 
-- 🧩 A **full-stack LeetCode Style code-executor** (React + Express + Judge0 API)
-- 🧠 A **AI-Girlfriend** for my single friends(voice-assistant)
-- 🧠 A **GenAI-powered RAG system** (chat with PDF/URLs)
-- 🛠️ Exploring **Next.js, LangChain**, and **Docker deployments**
+* 🧩 A **full-stack LeetCode-style code executor** (React + Express + Judge0 API)
+* 🧠 A **GenAI-powered Research Buddy** (RAG + PDF summarization + chatbot)
+* 🧠 An **AI-Girlfriend voice assistant** for fun & voice-based conversation
+* 🧱 Playing with **LangChain**, **LangGraph**, **Neo4j**, and **Redis** for knowledge graphs
+* 📦 Learning **Docker**, **DevContainers**, and **cloud deployment pipelines**
 
 ---
 
 ## 🏆 Achievements & Highlights
 
-- 🥇 Winner – **Code Crusade**, IIT Bhilai Coding Contest
-- 💯 Solved **350+ LeetCode problems**
-- 🧑‍🏫 **Mentor** at *True Mentor* and *Physics Wallah*
-- 📚 Consistently solving DSA problems (GFG + Club POTDs)
-- 🎯 JEE Mains – **99.3 percentile**, JEE Adv – **AIR 5977**
+* 🥇 Winner – **Code Crusade**, IIT Bhilai Coding Contest
+* 💯 Solved **350+ LeetCode problems**
+* 🧑‍🏫 **Mentor** at *True Mentor* and *Physics Wallah*
+* 📚 Consistently solving DSA problems (GFG + Club POTDs)
+* 🎯 JEE Mains – **99.3 percentile**, JEE Adv – **AIR 5977**
 
 ---
 
@@ -53,10 +70,10 @@
 
 <div align="center">
 
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul5977&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul5977&layout=compact&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rahul5977&theme=radical)](https://git.io/streak-stats)
-![Profile Views](https://komarev.com/ghpvc/?username=Rahul5977&label=Profile+Views&color=blue)
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul5977\&show_icons=true\&theme=radical\&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul5977\&layout=compact\&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rahul5977\&theme=radical)](https://git.io/streak-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=Rahul5977\&label=Profile+Views\&color=blue)
 
 </div>
 
@@ -65,6 +82,7 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 *Auto-updated via GitHub Actions from [Hashnode](https://hashnode.com/@rajcode45)*
@@ -73,9 +91,9 @@
 
 ## 🌐 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rahul-raj-iitbh/)
-- ✍️ [Hashnode Blog](https://hashnode.com/@rajcode45)
-- 👨‍💻 [LeetCode](https://leetcode.com/u/Rahul_Raj_99/)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/rahul-raj-iitbh/)
+* ✍️ [Hashnode Blog](https://hashnode.com/@rajcode45)
+* 👨‍💻 [LeetCode](https://leetcode.com/u/Rahul_Raj_99/)
 
 ---
 
@@ -85,4 +103,8 @@
 
 ---
 
-Thanks for stopping by! Feel free to ⭐️ any project you find interesting, or reach out for a collab — let’s build something amazing! 🚀
+Thanks for stopping by! Feel free to ⭐️ any project you find interesting or reach out for a collab — let’s build something amazing! 🚀
+
+---
+
+Let me know if you want badges for tools like **VS Code**, **Vercel**, or add links to your **RAG repo or deployed demos**.

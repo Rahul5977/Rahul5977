@@ -60,56 +60,6 @@ me.say_hi()
 </td>
 <td width="50%">
 
-### 🛒 Campus Marketplace
-**Peer-to-Peer Trading Platform**
-
-![Market](https://img.shields.io/badge/Status-Active-success?style=flat-square)
-
-- 🔐 Secure authentication
-- 💬 Real-time chat system
-- 📱 Mobile-responsive design
-- 🎓 IIT Bhilai exclusive
-
-**Tech:** Next.js, PostgreSQL, TailwindCSS
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 AI Student Assistant
-**Productivity-Focused AI Companion**
-
-![AI](https://img.shields.io/badge/Status-Beta-blue?style=flat-square)
-
-- 📚 Academic task management
-- 🧠 Smart scheduling
-- 💡 Personalized study plans
-- 🔔 Intelligent reminders
-
-**Tech:** LangChain, FastAPI, OpenAI
-
-</td>
-<td width="50%">
-
-### 🧠 Emotional Cause Extractor
-**AI-Powered Mental Health Support**
-
-![ML](https://img.shields.io/badge/Status-Research-purple?style=flat-square)
-
-- 🗣️ Advanced NLP chatbot
-- 😊 Emotion detection & analysis
-- 🩺 Psychological insights
-- 🤝 Empathetic conversations
-
-**Tech:** Python, Transformers, Neo4j
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Tech Arsenal
 
 <details open>

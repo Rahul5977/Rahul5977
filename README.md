@@ -4,7 +4,9 @@
 
 ### 🎓 Data Science & AI Student @ IIT Bhilai | Full-Stack Developer | AI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+AI-Powered+Solutions;350%2B+LeetCode+Problems+Solved;Passionate+About+Real-World+Impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=Building+AI-Powered+Solutions+%F0%9F%9A%80;Full-Stack+%7C+AI%2FML+Engineer;350%2B+LeetCode+Problems+Solved;Open+Source+Contributor+%26+Maintainer;Passionate+About+Real-World+Impact" alt="Typing SVG" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-raj-iitbh/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-350%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rahul_Raj_99/)
@@ -20,12 +22,13 @@
 ```python
 class RahulRaj:
     def __init__(self):
-        self.username = "Rahul5977"
-        self.location = "IIT Bhilai, India"
-        self.education = "BTech in Data Science & AI (3rd Year)"
-        self.role = "Full-Stack Developer | AI/ML Engineer"
-        self.current_focus = ["GenAI", "LLM Applications", "Competitive Programming"]
-        
+        self.username       = "Rahul5977"
+        self.location       = "IIT Bhilai, India"
+        self.education      = "BTech in Data Science & AI (3rd Year)"
+        self.role           = "Full-Stack Developer | AI/ML Engineer"
+        self.current_focus  = ["GenAI", "LLM Applications", "Competitive Programming"]
+        self.open_source    = ["FOSS Overflow @ IIT Bhilai", "OpenLake", "DSAI Club"]
+
     def say_hi(self):
         print("Building products that matter, one commit at a time 🚀")
 
@@ -35,30 +38,99 @@ me.say_hi()
 
 🎯 **Currently:** Building AI-powered platforms & competitive coding solutions  
 💡 **Passionate About:** Creating real-world impact through technology  
-🏆 **Achievements:** JEE Advanced AIR 5977 | 99.3%ile JEE Mains | Code Crusade Winner
+🏆 **Achievements:** JEE Advanced AIR 5977 | 99.3%ile JEE Mains | Code Crusade Winner  
+🌱 **Open Source:** Active contributor & maintainer across multiple projects  
 
 ---
 
-## 💼 Featured Projects
+## 💼 Experience & Roles
+
+<div align="center">
+
+| 🏢 Role | 🏛️ Organization | 📌 Description |
+|--------|----------------|----------------|
+| 🤖 **AI Intern** | **SuperLiving** | Building AI-driven features for the SuperLiving platform |
+| 🛠️ **Maintainer** | **OpenLake – IIT Bhilai** | Building & maintaining the campus marketplace application |
+| 🤝 **Contributor** | **DSAI Club – IIT Bhilai** | Developing an AI-powered interview platform |
+| 🎓 **Project Mentee** | **FOSS Overflow – IIT Bhilai** | Open-source mentorship program by IIT Bhilai |
+
+</div>
+
+---
+
+## 💡 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+### 🔍 Codexa
+**AI-Powered Code Intelligence Platform**
+
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![AI](https://img.shields.io/badge/AI-Powered-blueviolet?style=flat-square)
+
+- 🧠 Deep AI-assisted code understanding & search
+- 💬 Contextual chat with your codebase
+- 🔗 Intelligent cross-file reference tracing
+- ⚡ Powered by LLMs + vector embeddings
+
+**Tech:** Next.js, LangChain, OpenAI, PostgreSQL, pgvector
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Code Analyser
+**Automated Code Quality & Analysis Tool**
+
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![OSS](https://img.shields.io/badge/Open_Source-FOSS_Overflow-orange?style=flat-square)
+
+- 🔎 Static analysis & complexity metrics
+- 🐛 Automated bug & anti-pattern detection
+- 📈 Visual reports & improvement suggestions
+- 🔄 CI/CD pipeline integration ready
+
+**Tech:** Python, AST, FastAPI, React, Docker
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### ⚡ CodeArena
 **LeetCode-Style Competitive Platform**
 
-![Code](https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square)
+![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square)
 
-- 🏆 Live contests & leaderboards
-- 📊 Premium problem sheets
-- 🎯 Real-time rankings
+- 🏆 Live contests & real-time leaderboards
+- 📊 Premium curated problem sheets
+- 🎯 Instant ranking & performance analytics
 - 💻 Full-stack MERN application
 
 **Tech:** React, Node.js, MongoDB, Redis
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+### 🏪 Campus Marketplace
+**OpenLake – Campus E-Commerce Platform**
+
+![Status](https://img.shields.io/badge/Status-Maintained-blue?style=flat-square)
+![Role](https://img.shields.io/badge/Role-Maintainer-green?style=flat-square)
+
+- 🛒 Buy, sell & exchange within campus
+- 🔔 Real-time notifications & chat
+- 🔐 Secure auth & role-based access
+- 📱 Mobile-responsive design
+
+**Tech:** Next.js, Node.js, PostgreSQL, TailwindCSS
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🛠️ Tech Arsenal
 
@@ -134,6 +206,8 @@ me.say_hi()
 | **Competitive Coding** | 🥇 Code Crusade Winner (IIT Bhilai) |
 | **Problem Solving** | 💯 350+ LeetCode Problems Solved |
 | **Mentorship** | 🧑‍🏫 Mentored 100+ Students (True Mentor & PW) |
+| **Open Source** | 🌍 Maintainer @ OpenLake \| Contributor @ DSAI Club |
+| **Industry** | 💼 AI Intern @ SuperLiving |
 | **Competitive Exams** | 📚 JEE Advanced AIR 5977 \| 99.3%ile Mains |
 | **Daily Practice** | 🔥 Regular GFG & LeetCode POTD Solver |
 
@@ -142,6 +216,32 @@ me.say_hi()
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rahul5977&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🌍 Open Source Contributions
+
+<div align="center">
+
+```
+🎓  FOSS Overflow @ IIT Bhilai  ──  Project Mentee
+     └─ Selected for the open-source mentorship program at IIT Bhilai
+        working on impactful community-driven projects
+
+🏪  OpenLake @ IIT Bhilai  ──  Maintainer
+     └─ Building & maintaining the campus marketplace — a platform for
+        students to buy, sell & exchange goods within campus
+
+🤖  DSAI Club @ IIT Bhilai  ──  Contributor
+     └─ Contributing to the development of an AI-powered mock interviewer
+        leveraging LLMs to simulate real-world technical interviews
+
+💼  SuperLiving  ──  AI Intern
+     └─ Developing AI-driven features and integrations to enhance
+        the SuperLiving platform experience
+```
 
 </div>
 

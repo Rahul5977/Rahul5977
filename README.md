@@ -2,63 +2,69 @@
 
 # 👋 Hi, I'm Rahul Raj
 
-### 🎓 Data Science & AI Student @ IIT Bhilai | Full-Stack Developer | AI Enthusiast
+### Data Science & AI @ IIT Bhilai • Full-Stack + AI Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=Building+AI-Powered+Solutions+%F0%9F%9A%80;Full-Stack+%7C+AI%2FML+Engineer;350%2B+LeetCode+Problems+Solved;Open+Source+Contributor+%26+Maintainer;Passionate+About+Real-World+Impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=760&lines=Building+products+that+solve+real+problems;AI%2FML+%2B+Full-Stack+Developer;Open+Source+Contributor+%26+Maintainer;From+idea+to+production+with+speed" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-raj-iitbh/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-350%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rahul_Raj_99/)
-[![Blog](https://img.shields.io/badge/Hashnode-Tech_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@rajcode45)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Tech_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@rajcode45)
 [![Profile Views](https://komarev.com/ghpvc/?username=Rahul5977&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/Rahul5977)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Quick Intro
 
-```python
-class RahulRaj:
-    def __init__(self):
-        self.username       = "Rahul5977"
-        self.location       = "IIT Bhilai, India"
-        self.education      = "BTech in Data Science & AI (3rd Year)"
-        self.role           = "Full-Stack Developer | AI/ML Engineer"
-        self.current_focus  = ["GenAI", "LLM Applications", "Competitive Programming"]
-        self.open_source    = ["FOSS Overflow @ IIT Bhilai", "OpenLake", "DSAI Club"]
+I am a **B.Tech student in Data Science & AI at IIT Bhilai**, focused on building practical products using **AI + full-stack engineering**.
 
-    def say_hi(self):
-        print("Building products that matter, one commit at a time 🚀")
+I enjoy turning rough ideas into usable tools — from code intelligence systems to campus-scale platforms.
 
-me = RahulRaj()
-me.say_hi()
-```
-
-🎯 **Currently:** Building AI-powered platforms & competitive coding solutions  
-💡 **Passionate About:** Creating real-world impact through technology  
-🏆 **Achievements:** JEE Advanced AIR 5977 | 99.3%ile JEE Mains | Code Crusade Winner  
-🌱 **Open Source:** Active contributor & maintainer across multiple projects  
+- 🔭 Currently building: **Codexa** and **Dynamic Code Analyser**
+- 💼 Working as: **AI Intern at SuperLiving**
+- 🛠️ Open source role: **Maintainer at OpenLake (CampusRise)**
+- 🏆 Highlights: **Code Crusade Winner**, **JEE Advanced AIR 5977**, **99.3%ile JEE Mains**, **350+ LeetCode solved**
 
 ---
 
-## 💼 Experience & Roles
+## 🏆 Achievements at a Glance
 
-<div align="center">
-
-| 🏢 Role | 🏛️ Organization | 📌 Description |
-|--------|----------------|----------------|
-| 🤖 **AI Intern** | **SuperLiving** | Building AI-driven features for the SuperLiving platform |
-| 🛠️ **Maintainer** | **OpenLake – IIT Bhilai** | Building & maintaining the campus marketplace application |
-| 🤝 **Contributor** | **DSAI Club – IIT Bhilai** | Developing an AI-powered interview platform |
-| 🎓 **Project Mentee** | **FOSS Overflow – IIT Bhilai** | Open-source mentorship program by IIT Bhilai |
-
-</div>
+- 🥇 **Code Crusade Winner** at IIT Bhilai
+- 💯 Solved **350+ LeetCode problems** with consistent problem-solving practice
+- 🧑‍🏫 Mentored **100+ students** via True Mentor and PW
+- 🌍 Active in open source as **Maintainer + Contributor**
+- 📚 Competitive exam performance: **JEE Advanced AIR 5977**, **99.3%ile JEE Mains**
 
 ---
 
-## 💡 Featured Projects
+## 🔥 What I Worked on in the Last Month
+
+### 1) Codexa (AI Code Intelligence)
+- Improved AI-assisted code understanding workflows
+- Focused on contextual code search and cross-file traceability
+- Worked on making developer interactions faster and more accurate
+
+### 2) Dynamic Code Analyser
+- Built features for static analysis and quality reporting
+- Added logic for better issue detection and code insights
+- Focused on actionable outputs developers can use immediately
+
+### 3) CampusRise (OpenLake)
+- Continued work on campus marketplace capabilities
+- Maintained platform quality and contributor velocity
+- Helped keep the product stable while shipping feature improvements
+
+### 4) SuperLiving
+- Contributed to AI-driven feature development as an intern
+- Worked on integrations that improve user workflows and automation
+- Focused on delivering practical outcomes over experimentation-only work
+
+---
+
+## 💡 Featured Work
 
 <table>
 <tr>
@@ -67,29 +73,23 @@ me.say_hi()
 ### 🔍 Codexa
 **AI-Powered Code Intelligence Platform**
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![AI](https://img.shields.io/badge/AI-Powered-blueviolet?style=flat-square)
-
-- 🧠 Deep AI-assisted code understanding & search
-- 💬 Contextual chat with your codebase
-- 🔗 Intelligent cross-file reference tracing
-- ⚡ Powered by LLMs + vector embeddings
+- Context-aware code understanding
+- AI chat grounded in repository context
+- Smart reference tracing across files/modules
+- Designed for developer speed and clarity
 
 **Tech:** Next.js, LangChain, OpenAI, PostgreSQL, pgvector
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Code Analyser
+### 📊 Dynamic Code Analyser
 **Automated Code Quality & Analysis Tool**
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![OSS](https://img.shields.io/badge/Open_Source-FOSS_Overflow-orange?style=flat-square)
-
-- 🔎 Static analysis & complexity metrics
-- 🐛 Automated bug & anti-pattern detection
-- 📈 Visual reports & improvement suggestions
-- 🔄 CI/CD pipeline integration ready
+- Static analysis and complexity insights
+- Bug-prone pattern detection
+- Human-readable improvement suggestions
+- CI-ready architecture for team workflows
 
 **Tech:** Python, AST, FastAPI, React, Docker
 
@@ -98,33 +98,28 @@ me.say_hi()
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ CodeArena
-**LeetCode-Style Competitive Platform**
+### 🏪 CampusRise (OpenLake)
+**Campus Marketplace Platform**
 
-![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square)
+- Buy/sell/exchange ecosystem for students
+- Secure auth and reliable user journeys
+- Maintainer-driven roadmap and quality control
+- Contributor-friendly engineering workflow
 
-- 🏆 Live contests & real-time leaderboards
-- 📊 Premium curated problem sheets
-- 🎯 Instant ranking & performance analytics
-- 💻 Full-stack MERN application
-
-**Tech:** React, Node.js, MongoDB, Redis
+**Tech:** Next.js, Node.js, PostgreSQL, TailwindCSS
 
 </td>
 <td width="50%" valign="top">
 
-### 🏪 Campus Marketplace
-**OpenLake – Campus E-Commerce Platform**
+### 🤖 SuperLiving (AI Internship)
+**AI Features for Real Product Use Cases**
 
-![Status](https://img.shields.io/badge/Status-Maintained-blue?style=flat-square)
-![Role](https://img.shields.io/badge/Role-Maintainer-green?style=flat-square)
+- Product-focused AI feature implementation
+- Workflow automation and intelligence layers
+- Iterative improvements aligned with user needs
+- Collaboration in production-oriented environment
 
-- 🛒 Buy, sell & exchange within campus
-- 🔔 Real-time notifications & chat
-- 🔐 Secure auth & role-based access
-- 📱 Mobile-responsive design
-
-**Tech:** Next.js, Node.js, PostgreSQL, TailwindCSS
+**Focus:** Applied AI, full-stack execution, practical delivery
 
 </td>
 </tr>
@@ -132,55 +127,29 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🧠 What I Bring to the Table as a Developer
 
-<details open>
-<summary><b>💻 Languages & Frameworks</b></summary>
-<br>
+- **Problem-first mindset:** I prioritize real impact over flashy complexity.
+- **AI + engineering bridge:** I can take an AI concept and ship it into a usable product.
+- **Strong implementation speed:** Comfortable moving from idea → prototype → production.
+- **Ownership mentality:** I can maintain systems, not just build MVPs.
+- **Collaborative execution:** Experienced in open-source, mentorship, and team-based development.
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Proficient-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🤖 AI/ML & Data</b></summary>
-<br>
-
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>⚙️ DevOps & Tools</b></summary>
-<br>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![DevContainers](https://img.shields.io/badge/DevContainers-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</details>
+If your team needs someone who can **build fast, think deeply, and deliver practical AI/full-stack solutions**, I can contribute from day one.
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠️ Tech Stack
+
+**Languages:** Python, JavaScript, TypeScript, C++  
+**Frameworks:** React, Next.js, Node.js, FastAPI  
+**AI/ML:** LangChain, LLM integrations, TensorFlow  
+**Databases:** PostgreSQL, MongoDB, Redis, Neo4j  
+**Tools:** Git, Docker, VS Code, Dev Containers
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rahul5977&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
@@ -191,59 +160,14 @@ me.say_hi()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul5977&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul5977&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph"/>
-</div>
-
 ---
 
-## 🏆 Achievements & Recognition
+## 🌍 Open Source & Community
 
-<div align="center">
-
-| 🎯 Category | 🏅 Achievement |
-|------------|---------------|
-| **Competitive Coding** | 🥇 Code Crusade Winner (IIT Bhilai) |
-| **Problem Solving** | 💯 350+ LeetCode Problems Solved |
-| **Mentorship** | 🧑‍🏫 Mentored 100+ Students (True Mentor & PW) |
-| **Open Source** | 🌍 Maintainer @ OpenLake \| Contributor @ DSAI Club |
-| **Industry** | 💼 AI Intern @ SuperLiving |
-| **Competitive Exams** | 📚 JEE Advanced AIR 5977 \| 99.3%ile Mains |
-| **Daily Practice** | 🔥 Regular GFG & LeetCode POTD Solver |
-
-</div>
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rahul5977&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🌍 Open Source Contributions
-
-<div align="center">
-
-```
-🎓  FOSS Overflow @ IIT Bhilai  ──  Project Mentee
-     └─ Selected for the open-source mentorship program at IIT Bhilai
-        working on impactful community-driven projects
-
-🏪  OpenLake @ IIT Bhilai  ──  Maintainer
-     └─ Building & maintaining the campus marketplace — a platform for
-        students to buy, sell & exchange goods within campus
-
-🤖  DSAI Club @ IIT Bhilai  ──  Contributor
-     └─ Contributing to the development of an AI-powered mock interviewer
-        leveraging LLMs to simulate real-world technical interviews
-
-💼  SuperLiving  ──  AI Intern
-     └─ Developing AI-driven features and integrations to enhance
-        the SuperLiving platform experience
-```
-
-</div>
+- **FOSS Overflow @ IIT Bhilai** — Project Mentee
+- **OpenLake (CampusRise)** — Maintainer
+- **DSAI Club @ IIT Bhilai** — Contributor
+- **Mentorship** — Guided 100+ learners in coding/problem solving
 
 ---
 
@@ -252,20 +176,17 @@ me.say_hi()
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-> 🔄 *Auto-updated via GitHub Actions from my [Hashnode Blog](https://hashnode.com/@rajcode45)*
+> Auto-updated from my [Hashnode Blog](https://hashnode.com/@rajcode45)
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let’s Connect
 
 <div align="center">
 
-**I'm always open to interesting conversations and collaboration opportunities!**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-raj-iitbh/)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rahul5977)
 
 </div>
 
@@ -273,12 +194,8 @@ me.say_hi()
 
 <div align="center">
 
-### 💭 Daily Motivation
+> *"Step by step, line by line, commit by commit — I build things that matter."*
 
-> *"The gap between where I am and where I want to be — I'll close it step by step, line by line, commit by commit."*
-
-**⭐ Found something interesting? Consider starring the repos!**
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+**⭐ If you like my work, feel free to explore and star the repositories.**
 
 </div>

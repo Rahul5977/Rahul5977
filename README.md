@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rahul%20Raj&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Science%20%26%20AI%20%40%20IIT%20Bhilai%20%7C%20Full-Stack%20%2B%20AI%20Developer&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Building+products+that+solve+real+problems;🧠+AI%2FML+%2B+Full-Stack+Engineer;🔥+From+idea+→+prototype+→+production;⭐+Open+Source+Maintainer+%40+OpenLake" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+products+that+solve+real+problems;AI%2FML+%2B+Full-Stack+Engineer;From+idea+to+prototype+to+production;Open+Source+Maintainer+at+OpenLake" alt="Typing SVG" />
 
 <br/>
 
@@ -185,13 +185,13 @@ const rahul = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rahul5977&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Rahul5977&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFA116&currStreakLabel=00D9FF&sideNums=ffffff&sideLabels=ffffff&dates=888888" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rahul5977&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Rahul5977&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul5977&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul5977&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -210,7 +210,7 @@ const rahul = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rahul5977&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rahul5977&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
 
 </div>
 

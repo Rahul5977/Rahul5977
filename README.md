@@ -152,12 +152,12 @@ If your team needs someone who can **build fast, think deeply, and deliver pract
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rahul5977&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul5977&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rahul5977&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul5977&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul5977&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Rahul5977&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---

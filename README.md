@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d2137,100:0a192f&height=200&section=header&text=Rahul+Raj&fontSize=65&fontColor=00D9FF&animation=fadeIn&fontAlignY=35&desc=Data+Science+%26+AI+%40+IIT+Bhilai+%7C+Full-Stack+%2B+AI+Developer&descAlignY=58&descSize=17&descColor=a0c4d8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0f1e,50:0d2137,100:0a192f&amp;height=200&amp;section=header&amp;text=Rahul+Raj&amp;fontSize=65&amp;fontColor=00D9FF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Data+Science+%26+AI+%40+IIT+Bhilai+%7C+Full-Stack+%2B+AI+Developer&amp;descAlignY=58&amp;descSize=17&amp;descColor=a0c4d8"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=🚀+Building+products+that+solve+real+problems;🧠+AI%2FML+%2B+Full-Stack+Engineer;🔥+From+idea+%E2%86%92+prototype+%E2%86%92+production;⭐+Open+Source+Maintainer+%40+OpenLake" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=20&amp;pause=1200&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Building+products+that+solve+real+problems;AI%2FML+%2B+Full-Stack+Engineer;From+idea+to+prototype+to+production;Open+Source+Maintainer+%40+OpenLake" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/rahul-raj-iitbh/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 <a href="https://leetcode.com/u/Rahul_Raj_99/">
-  <img src="https://img.shields.io/badge/LeetCode_350%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode_350%2B-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black"/>
 </a>
 <a href="https://hashnode.com/@rajcode45">
-  <img src="https://img.shields.io/badge/Hashnode_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hashnode_Blog-2962FF?style=for-the-badge&amp;logo=hashnode&amp;logoColor=white"/>
 </a>
 <a href="https://github.com/Rahul5977">
-  <img src="https://komarev.com/ghpvc/?username=Rahul5977&label=Profile+Views&color=00D9FF&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Rahul5977&amp;label=Profile+Views&amp;color=00D9FF&amp;style=for-the-badge"/>
 </a>
 
 </div>
@@ -33,7 +33,7 @@ const rahul = {
   institute   : "IIT Bhilai — B.Tech in Data Science & AI",
   role        : "AI Intern @ SuperLiving | Maintainer @ OpenLake",
   building    : ["Codexa", "Dynamic Code Analyser", "CampusRide"],
-  highlights  : ["Code Crusade Winner 🏆", "JEE Adv AIR 5977", "99.3%ile JEE Mains", "350+ LeetCode"],
+  highlights  : ["Code Crusade Winner", "JEE Adv AIR 5977", "99.3%ile JEE Mains", "350+ LeetCode"],
   superpower  : "Turning rough ideas into usable, production-grade products",
   available   : true,
 };
@@ -45,11 +45,11 @@ const rahul = {
 
 <div align="center">
 
-| 🥇 Code Crusade Winner | 💻 350+ LeetCode Solved | 🧑‍🏫 100+ Students Mentored |
+| 🥇 Code Crusade Winner | 💻 350+ LeetCode Solved | 100+ Students Mentored |
 |:---:|:---:|:---:|
-| **IIT Bhilai** | Consistent problem-solver | True Mentor & PW |
+| **IIT Bhilai** | Consistent problem-solver | True Mentor and PW |
 
-| 📊 JEE Advanced AIR 5977 | 📈 99.3%ile JEE Mains | 🌍 Open Source Maintainer |
+| JEE Advanced AIR 5977 | 99.3%ile JEE Mains | 🌍 Open Source Maintainer |
 |:---:|:---:|:---:|
 | Top Engineering Entrance | National Level | OpenLake · CampusRise |
 
@@ -148,36 +148,36 @@ const rahul = {
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white"/>
 
-**Frameworks & Libraries**
+**Frameworks**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white"/>
 
 **AI / ML**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white"/>
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&amp;logo=neo4j&amp;logoColor=white"/>
 
-**Tools & DevOps**
+**Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white"/>
 
 </div>
 
@@ -187,14 +187,14 @@ const rahul = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rahul5977&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Rahul5977&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFA116&currStreakLabel=00D9FF&sideNums=ffffff&sideLabels=aaaaaa&dates=888888&currStreakNum=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rahul5977&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;icon_color=00D9FF&amp;text_color=ffffff"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Rahul5977&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;stroke=00D9FF&amp;ring=00D9FF&amp;fire=FFA116&amp;currStreakLabel=00D9FF&amp;sideNums=ffffff&amp;sideLabels=aaaaaa&amp;dates=888888&amp;currStreakNum=ffffff"/>
 
 </div>
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul5977&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul5977&amp;layout=donut&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;text_color=ffffff"/>
 
 </div>
 
@@ -204,7 +204,7 @@ const rahul = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul5977&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFA116&area=true&area_color=00D9FF20&hide_border=true&radius=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul5977&amp;bg_color=0D1117&amp;color=00D9FF&amp;line=00D9FF&amp;point=FFA116&amp;area=true&amp;hide_border=true&amp;radius=8"/>
 
 </div>
 
@@ -214,7 +214,7 @@ const rahul = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rahul5977&theme=algolia&no-frame=true&no-bg=true&margin-w=6&margin-h=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rahul5977&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;margin-h=6&amp;column=4"/>
 
 </div>
 
@@ -225,9 +225,9 @@ const rahul = {
 | Role | Organization | Focus |
 |------|-------------|-------|
 | 🔧 **Maintainer** | OpenLake — CampusRise | Campus marketplace platform |
-| 🎓 **Project Mentee** | FOSS Overflow @ IIT Bhilai | Open-source culture & contribution |
-| 🤝 **Contributor** | DSAI Club @ IIT Bhilai | AI/ML community & projects |
-| 🧑‍🏫 **Mentor** | True Mentor · PW | Guided 100+ learners in coding & DSA |
+| 🎓 **Project Mentee** | FOSS Overflow @ IIT Bhilai | Open-source culture and contribution |
+| 🤝 **Contributor** | DSAI Club @ IIT Bhilai | AI/ML community and projects |
+| 🧑‍🏫 **Mentor** | True Mentor · PW | Guided 100+ learners in coding and DSA |
 
 ---
 
@@ -235,8 +235,8 @@ const rahul = {
 
 ```
 Problem-first mindset    ████████████████████  Real impact over flashy complexity
-AI + Engineering bridge  ████████████████████  Concept → usable product
-Implementation speed     ████████████████████  Idea → prototype → production
+AI + Engineering bridge  ████████████████████  Concept to usable product
+Implementation speed     ████████████████████  Idea to prototype to production
 Ownership mentality      ████████████████████  Maintain systems, not just MVPs
 Collaborative execution  ████████████████████  Open-source, mentorship, teams
 ```
@@ -248,7 +248,7 @@ Collaborative execution  ██████████████████�
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-> Auto-updated from my [Hashnode Blog ↗](https://hashnode.com/@rajcode45)
+> Auto-updated from my [Hashnode Blog](https://hashnode.com/@rajcode45)
 
 ---
 
@@ -257,31 +257,28 @@ Collaborative execution  ██████████████████�
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rahul-raj-iitbh/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
-&nbsp;
 <a href="mailto:rahulraj@iitbhilai.ac.in">
-  <img src="https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Message-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://github.com/Rahul5977">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://hashnode.com/@rajcode45">
-  <img src="https://img.shields.io/badge/Blog-Read_My_Posts-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blog-Read_Posts-2962FF?style=for-the-badge&amp;logo=hashnode&amp;logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:0a0f1e&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a192f,100:0a0f1e&amp;height=120&amp;section=footer&amp;animation=fadeIn"/>
 
 <div align="center">
 
-> *"Step by step, line by line, commit by commit — I build things that matter."*
+*"Step by step, line by line, commit by commit — I build things that matter."*
 
-**⭐ If you find my work useful, give the repos a star — it means a lot!**
+**If you find my work useful, give the repos a star — it means a lot!**
 
 </div>

@@ -3,11 +3,11 @@
 <!--        GitHub Profile README · github.com/Rahul5977/Rahul5977          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/Rahul5977">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Rahul%20Raj&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%2FML%20%2B%20Full-Stack%20Engineer%20%C2%B7%20Data%20Science%20%26%20AI%20%40%20IIT%20Bhilai&descAlignY=54&descSize=18&descColor=b9e6ff" alt="Rahul Raj" />
-</a>
-
 <div align="center">
+
+# Rahul Raj
+
+**AI/ML + Full-Stack Engineer** &nbsp;·&nbsp; Data Science & AI @ IIT Bhilai
 
 <a href="https://github.com/Rahul5977">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1100&color=22D3EE&center=true&vCenter=true&width=780&lines=I+turn+rough+ideas+into+production-grade+products;AI%2FML+%2B+Full-Stack+Engineer;Realtime+voice%2C+agentic+RAG+%26+scalable+backends;From+idea+%E2%86%92+prototype+%E2%86%92+production;350%2B+LeetCode+%C2%B7+Open+Source+%40+OpenLake" alt="Typing SVG" />
@@ -190,6 +190,7 @@ const rahul: Engineer = {
 - **Codexa** — AI-powered code-intelligence platform: repo-grounded chat & cross-file reference tracing · `Next.js` `LangChain` `pgvector`
 - **Dynamic Code Analyser** — static + dynamic analysis with actionable, CI-ready insights · `Python` `AST` `FastAPI`
 - **CampusRide** — realtime ride-sharing for IIT Bhilai with WebSocket chat · `Next.js` `Node` `PostgreSQL`
+- **AcadMap** — collaborative course-material sharing for IIT Bhilai students · `TypeScript`
 
 </details>
 
@@ -213,12 +214,12 @@ const rahul: Engineer = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rahul5977&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=22D3EE&icon_color=22D3EE&bg_color=0D1117" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul5977&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=22D3EE&bg_color=0D1117" alt="top langs" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rahul5977&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=22D3EE&icon_color=22D3EE&bg_color=0D1117&cache_seconds=86400" alt="stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rahul5977&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=22D3EE&bg_color=0D1117&cache_seconds=86400" alt="top langs" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul5977&hide_border=true&theme=tokyonight&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&background=0D1117" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=Rahul5977&hide_border=true&theme=tokyonight&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&background=0D1117" alt="streak" />
 
 </div>
 
@@ -227,7 +228,5 @@ const rahul: Engineer = {
 <div align="center">
 
 *“From idea to prototype to production — one shipped product at a time.”*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" alt="footer" />
 
 </div>

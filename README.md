@@ -190,7 +190,6 @@ const rahul: Engineer = {
 - **Codexa** — AI-powered code-intelligence platform: repo-grounded chat & cross-file reference tracing · `Next.js` `LangChain` `pgvector`
 - **Dynamic Code Analyser** — static + dynamic analysis with actionable, CI-ready insights · `Python` `AST` `FastAPI`
 - **CampusRide** — realtime ride-sharing for IIT Bhilai with WebSocket chat · `Next.js` `Node` `PostgreSQL`
-- **AcadMap** — collaborative course-material sharing for IIT Bhilai students · `TypeScript`
 
 </details>
 

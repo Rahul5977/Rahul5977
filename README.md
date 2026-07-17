@@ -1,134 +1,45 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rahul+Raj&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data+Science+and+AI+at+IIT+Bhilai&descAlignY=58&descSize=18&descColor=aaddff)
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                            R A H U L   R A J                            -->
+<!--        GitHub Profile README · github.com/Rahul5977/Rahul5977          -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<a href="https://github.com/Rahul5977">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Rahul%20Raj&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%2FML%20%2B%20Full-Stack%20Engineer%20%C2%B7%20Data%20Science%20%26%20AI%20%40%20IIT%20Bhilai&descAlignY=54&descSize=18&descColor=b9e6ff" alt="Rahul Raj" />
+</a>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+products+that+solve+real+problems;AI%2FML+%2B+Full-Stack+Engineer;From+idea+to+prototype+to+production;Open+Source+Maintainer+%40+OpenLake)
+<a href="https://github.com/Rahul5977">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1100&color=22D3EE&center=true&vCenter=true&width=780&lines=I+turn+rough+ideas+into+production-grade+products;AI%2FML+%2B+Full-Stack+Engineer;Realtime+voice%2C+agentic+RAG+%26+scalable+backends;From+idea+%E2%86%92+prototype+%E2%86%92+production;350%2B+LeetCode+%C2%B7+Open+Source+%40+OpenLake" alt="Typing SVG" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-raj-iitbh/)
-[![LeetCode](https://img.shields.io/badge/LeetCode_350%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rahul_Raj_99/)
-[![Hashnode](https://img.shields.io/badge/Hashnode_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@rajcode45)
-[![Profile Views](https://komarev.com/ghpvc/?username=Rahul5977&label=Profile+Views&color=00D9FF&style=for-the-badge)](https://github.com/Rahul5977)
+<br/>
+
+<a href="https://www.linkedin.com/in/rahul-raj-iitbh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/Rahul_Raj_99/"><img src="https://img.shields.io/badge/LeetCode_350%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://hashnode.com/@rajcode45"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
+<a href="mailto:rahul.raj9237@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=Rahul5977&label=Profile+Views&color=22D3EE&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
----
+<br/>
 
-## ⚡ About Me
+## ⚡ whoami
 
-```typescript
-const rahul = {
-  name        : "Rahul Raj",
-  institute   : "IIT Bhilai — B.Tech in Data Science & AI",
-  role        : "AI Intern @ SuperLiving | Maintainer @ OpenLake",
-  building    : ["Codexa", "Dynamic Code Analyser", "CampusRide"],
-  highlights  : ["Code Crusade Winner", "JEE Adv AIR 5977", "99.3%ile JEE Mains", "350+ LeetCode"],
-  superpower  : "Turning rough ideas into usable, production-grade products",
-  available   : true,
+```ts
+const rahul: Engineer = {
+  name       : "Rahul Raj",
+  institute  : "IIT Bhilai — B.Tech, Data Science & AI",
+  role       : "AI Intern @ SuperLiving  ·  Maintainer @ OpenLake",
+  focus      : ["AI/ML systems", "agentic RAG", "realtime & full-stack"],
+  building   : ["CodeArena", "AI-Presentation", "Student-Counselor", "AI-Interviewer"],
+  philosophy : "ship real products, not toy demos",
+  available  : true,
 };
 ```
 
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| 🥇 Code Crusade Winner | 💻 350+ LeetCode Solved | 🧑‍🏫 100+ Students Mentored |
-|:---:|:---:|:---:|
-| **IIT Bhilai** | Consistent problem-solver | True Mentor and PW |
-
-| 📊 JEE Advanced AIR 5977 | 📈 99.3%ile JEE Mains | 🌍 Open Source Maintainer |
-|:---:|:---:|:---:|
-| Top Engineering Entrance | National Level | OpenLake · CampusRise |
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-### 🔍 Codexa — AI-Powered Code Intelligence Platform
-
-</div>
-
-> Context-aware AI that understands your codebase like a senior engineer would.
-
-- 🤖 AI chat grounded in full repository context
-- 🔗 Smart reference tracing across files and modules
-- ⚡ Designed for developer speed, not demo aesthetics
-- 🧩 Cross-file traceability and intelligent code search
-
-**Stack:** `Next.js` `LangChain` `OpenAI` `PostgreSQL` `pgvector`
-
----
-
-<div align="center">
-
-### 📊 Dynamic Code Analyser — Automated Code Quality Tool
-
-</div>
-
-> Static analysis that gives developers actionable insights, not noise.
-
-- 🔬 Complexity metrics and bug-prone pattern detection
-- 📋 Human-readable improvement suggestions
-- 🐳 CI-ready architecture — plug in and ship
-- 🧠 Designed for real team workflows, not toy projects
-
-**Stack:** `Python` `AST` `FastAPI` `React` `Docker`
-
----
-
-<div align="center">
-
-### 🚗 CampusRide — Ride-Sharing for IIT Bhilai
-
-</div>
-
-> A platform built for campus, designed to scale.
-
-- 🗺️ Real-time ride matching for IIT Bhilai students
-- 💬 WebSocket-powered live chat between riders and drivers
-- 🔐 Secure auth with robust user journey flows
-- 📐 Phased 7-week implementation roadmap designed from scratch
-
-**Stack:** `Next.js` `Node.js` `PostgreSQL` `WebSockets` `TailwindCSS`
-
----
-
-<div align="center">
-
-### 🏪 CampusRise (OpenLake) — Campus Marketplace Platform
-
-</div>
-
-> Open-source campus ecosystem — buy, sell, and exchange as a community.
-
-- 🛍️ Buy/sell/exchange ecosystem built for students
-- 🔒 Secure auth and reliable user experience
-- 👨‍💻 Maintainer-driven roadmap with contributor-friendly workflows
-- 📦 Stable, production-grade platform
-
-**Stack:** `Next.js` `Node.js` `PostgreSQL` `TailwindCSS`
-
----
-
-## 💼 Internship Experience
-
-### 🤖 AI Intern — SuperLiving
-
-> Shipping AI into production where it actually matters.
-
-- 🏗️ Implemented AI-driven features in a live product environment
-- 🔁 Workflow automation and intelligent layer integrations
-- 🚢 Focused on practical delivery over experimentation
-- 🤝 Collaborated with cross-functional teams to align AI outputs with user needs
-
-**Focus:** Applied AI · Full-Stack Execution · Production Delivery
-
----
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -136,130 +47,188 @@ const rahul = {
 
 **Languages**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
+<img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js" alt="languages" />
 
-**Frameworks**
+**Frontend**
 
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#)
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css" alt="frontend" />
 
-**AI / ML**
+**Backend · Data**
 
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](#)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](#)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma,postgres,redis,mongodb" alt="backend" />
 
-**Databases**
+**AI/ML · Cloud · DevOps**
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](#)
-[![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)](#)
-
-**Tools**
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,aws,docker,git,linux" alt="ai-cloud-devops" />
 
 </div>
 
----
+<br/>
+
+## 🚀 Featured Projects
+
+<!-- ───────────────────────── CodeArena ───────────────────────── -->
+<table width="100%">
+<tr><td width="100%">
+
+### 🧩 CodeArena · <sub>a competitive-programming platform, end to end</sub>
+
+> A LeetCode-style arena where people **solve, submit, and compete** — sandboxed multi-language code execution, live contests, curated DSA sheets, discussion, and AI code review, all in one product.
+
+- ⚔️ **In-browser judge** — Monaco editor + sandboxed execution against test cases with real verdicts
+- 🏆 **Contests & leaderboards** — timed rounds with per-contest and global rankings, live over WebSockets
+- 📚 **Structured DSA sheets** — day-by-day, phase-ordered practice tracks with progress dashboards
+- 💬 **Community & AI review** — discuss threads, solutions, and AI-assisted code feedback
+- 🛠️ **Admin authoring** — full UI to author problems, testcases, and contests
+- ☁️ Dockerized and deployed on **AWS Lightsail** behind Caddy
+
+<p>
+<img src="https://img.shields.io/badge/React_19-149ECA?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+<a href="https://github.com/Rahul5977/CodeArena"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td></tr>
+</table>
+
+<!-- ───────────────────────── AI-Presentation ───────────────────────── -->
+<table width="100%">
+<tr><td width="100%">
+
+### 🎨 AI-Presentation · <sub>a Gamma-style AI deck generator</sub>
+
+> Type a topic, get a **full, editable slide deck** — an async AI pipeline that writes the content, generates the imagery, and finalizes a polished, exportable presentation.
+
+- 🧠 **Prompt → deck** — LLM-driven outline, copy, and layout generation
+- ⚙️ **Multi-stage worker pipeline** — Redis-backed content → image → finalize jobs, so generation scales and never blocks the UI
+- 🖼️ **Live editor** — resizable panels and carousels to refine slides, with **PPTX export**
+- 🔐 Auth, billing (**Razorpay**) and observability baked in
+- 🏗️ Built on **TanStack Start** (SSR React) with type-safe routing and data
+
+<p>
+<img src="https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square&logo=react-query&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_+_OpenAI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+<a href="https://github.com/Rahul5977/AI-Presentation-TanStack-Start"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td></tr>
+</table>
+
+<!-- ───────────────────────── Student-Counselor ───────────────────────── -->
+<table width="100%">
+<tr><td width="100%">
+
+### 🎓 Student-Counselor · <sub>a JEE/JoSAA counselling companion</sub>
+
+> **Predict → Plan → Talk.** A rank-to-seat guide for the JEE/JoSAA counselling window — engineered to sit near **$0 when idle** and absorb **lakhs of students in minutes** when a round result drops.
+
+- 🎯 **College predictor** over **11,261 official JoSAA 2024 cutoffs** across 121 institutes (IITs + NITs + IIITs + GFTIs), with home-state quota applied automatically
+- 📋 **"List Doctor"** — a server-authoritative choice-list checker that flags the classic ordering mistakes before you lock in
+- 👥 **Mentor marketplace** — book **paid 1:1 video calls** with verified seniors
+- 🌩️ **Serverless AWS** (Lambda · API Gateway · DynamoDB · CloudFront · Cognito) via **AWS CDK**, architected to survive a **100× traffic cliff**
+- 🧩 ~70 screens across student / mentor / admin, split into 9 bounded contexts
+
+<p>
+<img src="https://img.shields.io/badge/Next.js_14-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Serverless-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/>
+</p>
+
+<img src="https://img.shields.io/badge/🚧_In_Active_Development-F59E0B?style=for-the-badge"/>
+
+</td></tr>
+</table>
+
+<!-- ───────────────────────── AI-Interviewer ───────────────────────── -->
+<table width="100%">
+<tr><td width="100%">
+
+### 🎙️ AI-Interviewer · <sub>a voice AI mock-interview simulator</sub>
+
+> A **voice-driven** interviewer that runs a candidate through a real loop — **Coding, Technical, and HR** rounds — tailored to a job description, with questions **grounded in real past interview questions**, live proctoring, and a rubric scorecard.
+
+- 🗣️ **Realtime voice** — streaming STT → LLM → TTS over WebRTC (**LiveKit Agents**), fully swappable stages
+- 🔎 **Source-grounded questions** — agentic RAG (pgvector/Qdrant + PageIndex + rerank via **LangGraph**) pulls the questions actually asked for that company/role, then twists them harder
+- 👁️ **Client-side proctoring** — MediaPipe face/gaze detection + tab-focus & paste signals, streamed to an integrity timeline
+- ⚙️ **Live code execution** in the coding round + an LLM **rubric scorecard** with specific, cited feedback
+- 💡 Built cost-first: self-hosted Whisper/Piper now, premium providers later with a one-line swap
+
+<p>
+<img src="https://img.shields.io/badge/LiveKit-000?style=flat-square&logo=livekit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
+</p>
+
+<img src="https://img.shields.io/badge/📐_Architecture_%26_Design_Phase-6366F1?style=for-the-badge"/>
+
+</td></tr>
+</table>
+
+<br/>
+
+<details>
+<summary><b>🧪 More things I've built</b></summary>
+
+<br/>
+
+- **Codexa** — AI-powered code-intelligence platform: repo-grounded chat & cross-file reference tracing · `Next.js` `LangChain` `pgvector`
+- **Dynamic Code Analyser** — static + dynamic analysis with actionable, CI-ready insights · `Python` `AST` `FastAPI`
+- **CampusRide** — realtime ride-sharing for IIT Bhilai with WebSocket chat · `Next.js` `Node` `PostgreSQL`
+- **AcadMap** — collaborative course-material sharing for IIT Bhilai students · `TypeScript`
+
+</details>
+
+<br/>
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🥇 Code Crusade Winner | 💻 350+ LeetCode Solved | 🧑‍🏫 100+ Students Mentored |
+|:---:|:---:|:---:|
+| IIT Bhilai | Consistent problem-solver | Mentor @ PW |
+| **📊 JEE Advanced AIR 5977** | **📈 99.3 %ile JEE Mains** | **🌍 Open Source Maintainer** |
+| Top engineering entrance | National level | OpenLake · CampusRise |
+
+</div>
+
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul5977&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&cache_seconds=1800)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rahul5977&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=22D3EE&icon_color=22D3EE&bg_color=0D1117" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul5977&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=22D3EE&bg_color=0D1117" alt="top langs" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Rahul5977&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFA116&currStreakLabel=00D9FF&sideNums=ffffff&sideLabels=aaaaaa&dates=888888&currStreakNum=ffffff)
+<br/>
 
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul5977&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&cache_seconds=1800)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul5977&hide_border=true&theme=tokyonight&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&background=0D1117" alt="streak" />
 
 </div>
 
----
-
-## 📈 Contribution Graph
+<br/>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahul5977&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFA116&area=true&hide_border=true&radius=8)
+*“From idea to prototype to production — one shipped product at a time.”*
 
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=Rahul5977&theme=algolia&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🌍 Open Source & Community
-
-| Role | Organization | Focus |
-|------|-------------|-------|
-| 🔧 **Maintainer** | OpenLake — CampusRise | Campus marketplace platform |
-| 🎓 **Project Mentee** | FOSS Overflow @ IIT Bhilai | Open-source culture and contribution |
-| 🤝 **Contributor** | DSAI Club @ IIT Bhilai | AI/ML community and projects |
-| 🧑‍🏫 **Mentor** | True Mentor · PW | Guided 100+ learners in coding and DSA |
-
----
-
-## 💡 What I Bring to the Table
-
-```
-Problem-first mindset    ████████████████████  Real impact over flashy complexity
-AI + Engineering bridge  ████████████████████  Concept to usable product
-Implementation speed     ████████████████████  Idea to prototype to production
-Ownership mentality      ████████████████████  Maintain systems, not just MVPs
-Collaborative execution  ████████████████████  Open-source, mentorship, teams
-```
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-> Auto-updated from my [Hashnode Blog](https://hashnode.com/@rajcode45)
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-raj-iitbh/)
-[![Email](https://img.shields.io/badge/Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulraj@iitbhilai.ac.in)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rahul5977)
-[![Blog](https://img.shields.io/badge/Blog-Read_Posts-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@rajcode45)
-
-</div>
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn)
-
-<div align="center">
-
-*"Step by step, line by line, commit by commit — I build things that matter."*
-
-**If you find my work useful, give the repos a star — it means a lot!**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" alt="footer" />
 
 </div>

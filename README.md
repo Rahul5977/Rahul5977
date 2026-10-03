@@ -5,6 +5,8 @@
 
 <div align="center">
 
+<a href="https://rahul5977.github.io/Its-me/"><img src="https://rahul5977.github.io/Its-me/logo.svg" width="96" alt="Rahul Raj logo"/></a>
+
 # Rahul Raj
 
 **AI/ML + Full-Stack Engineer** &nbsp;·&nbsp; Data Science & AI @ IIT Bhilai
@@ -15,11 +17,16 @@
 
 <br/>
 
+<a href="https://rahul5977.github.io/Its-me/"><img src="https://img.shields.io/badge/Portfolio-0B1117?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/rahul-raj-iitbh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://leetcode.com/u/Rahul_Raj_99/"><img src="https://img.shields.io/badge/LeetCode_350%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://hashnode.com/@rajcode45"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
 <a href="mailto:rahul.raj9237@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=Rahul5977&label=Profile+Views&color=22D3EE&style=for-the-badge" alt="Profile Views"/>
+
+<br/><br/>
+
+🌐 **[rahul5977.github.io/Its-me](https://rahul5977.github.io/Its-me/)**: the full story, with projects, Inter IIT 14.0, an interactive terminal and more.
 
 </div>
 
@@ -31,7 +38,8 @@
 const rahul: Engineer = {
   name       : "Rahul Raj",
   institute  : "IIT Bhilai — B.Tech, Data Science & AI",
-  role       : "AI Intern @ SuperLiving  ·  Maintainer @ OpenLake",
+  role       : "ex-AI Intern @ SuperLiving (Summer '26)  ·  Maintainer @ OpenLake",
+  portfolio  : "https://rahul5977.github.io/Its-me",
   focus      : ["AI/ML systems", "agentic RAG", "realtime & full-stack"],
   building   : ["CodeArena", "AI-Presentation", "Student-Counselor", "AI-Interviewer"],
   philosophy : "ship real products, not toy demos",

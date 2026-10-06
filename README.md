@@ -155,7 +155,8 @@ const rahul: Engineer = {
 <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/>
 </p>
 
-<img src="https://img.shields.io/badge/🚧_In_Active_Development-F59E0B?style=for-the-badge"/>
+<a href="https://counsellor.kodexa.in"><img src="https://img.shields.io/badge/Live_Site-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://github.com/Rahul5977/EngHub"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td></tr>
 </table>
